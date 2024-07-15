@@ -1,0 +1,671 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "japanese": "どの交通手段が一番速いですか。"
+      },
+      "options": {
+        "A": "歩く",
+        "B": "自転車",
+        "C": "バス",
+        "D": "新幹線"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 2,
+      "question": {
+        "japanese": "彼女は＿＿＿寝ています。起こさないでください。"
+      },
+      "options": {
+        "A": "ぐっすり",
+        "B": "うっかり",
+        "C": "そろそろ",
+        "D": "ばたばた"
+      },
+      "correctAnswer": "A",
+      "explanation": "This question needs improvement. The correct answer doesn't fit the context well, and multiple options could logically fit."
+    },
+    {
+      "id": 3,
+      "question": {
+        "japanese": "この＿＿＿は古くて壊れています。新しいのを買う必要があります。"
+      },
+      "options": {
+        "A": "財布",
+        "B": "ドア",
+        "C": "お菓子",
+        "D": "橋"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 4,
+      "question": {
+        "japanese": "私の姉は大学の＿＿＿です。"
+      },
+      "options": {
+        "A": "建物",
+        "B": "学生",
+        "C": "家族",
+        "D": "交差点"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 5,
+      "question": {
+        "japanese": "この建物は何階建てですか。"
+      },
+      "options": {
+        "A": "5階建て",
+        "B": "10階建て",
+        "C": "15階建て",
+        "D": "20階建て"
+      },
+      "correctAnswer": "B",
+      "explanation": "This question needs improvement. The options don't match the question grammatically."
+    },
+    {
+      "id": 6,
+      "question": {
+        "japanese": "彼女は料理が＿＿＿です。あまり美味しくありません。"
+      },
+      "options": {
+        "A": "上手",
+        "B": "下手",
+        "C": "丸い",
+        "D": "黄色い"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 7,
+      "question": {
+        "japanese": "春、夏、秋、＿＿＿の順番で季節が変わります。"
+      },
+      "options": {
+        "A": "冬",
+        "B": "頭",
+        "C": "休み",
+        "D": "橋"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 8,
+      "question": {
+        "japanese": "電話で話すとき、最初に何と言いますか。"
+      },
+      "options": {
+        "A": "こんにちは",
+        "B": "さようなら",
+        "C": "もしもし",
+        "D": "ありがとう"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 9,
+      "question": {
+        "japanese": "この靴下は＿＿＿です。太陽のような色です。"
+      },
+      "options": {
+        "A": "黄色い",
+        "B": "丸い",
+        "C": "高い",
+        "D": "遠い"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 10,
+      "question": {
+        "japanese": "お菓子を食べすぎると、＿＿＿が痛くなることがあります。"
+      },
+      "options": {
+        "A": "靴下",
+        "B": "財布",
+        "C": "頭",
+        "D": "ドア"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 11,
+      "question": {
+        "japanese": "この本は500＿＿＿です。高すぎますね。"
+      },
+      "options": {
+        "A": "円",
+        "B": "グラム",
+        "C": "か月",
+        "D": "日"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 12,
+      "question": {
+        "japanese": "彼女は毎朝6時に＿＿＿します。"
+      },
+      "options": {
+        "A": "起きる",
+        "B": "寝る",
+        "C": "帰る",
+        "D": "遊ぶ"
+      },
+      "correctAnswer": "A",
+      "explanation": "This question needs improvement. The correct answer is not clearly indicated by the context."
+    },
+    {
+      "id": 13,
+      "question": {
+        "japanese": "この漢字の読み方として正しいものはどれですか。「食べる」"
+      },
+      "options": {
+        "A": "たべる",
+        "B": "たべます",
+        "C": "たべました",
+        "D": "たべない"
+      },
+      "correctAnswer": "A",
+      "explanation": "This question needs improvement. It tests personal relationships, which should be avoided."
+    },
+    {
+      "id": 14,
+      "question": {
+        "japanese": "この建物は＿＿＿形をしています。角がありません。"
+      },
+      "options": {
+        "A": "丸い",
+        "B": "高い",
+        "C": "遠い",
+        "D": "黄色い"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 15,
+      "question": {
+        "japanese": "コンビニで＿＿＿を買いました。健康に良くないと言われています。"
+      },
+      "options": {
+        "A": "お菓子",
+        "B": "たばこ",
+        "C": "ボールペン",
+        "D": "靴下"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 16,
+      "question": {
+        "japanese": "日本語の試験で長い＿＿＿を書くのに時間がかかりました。"
+      },
+      "options": {
+        "A": "文章",
+        "B": "単語",
+        "C": "数字",
+        "D": "名前"
+      },
+      "correctAnswer": "A",
+      "explanation": "This question needs improvement. The options are all verbs in different forms, which is confusing."
+    },
+    {
+      "id": 17,
+      "question": {
+        "japanese": "この店では、タバコを吸うことが＿＿＿。"
+      },
+      "options": {
+        "A": "できません",
+        "B": "いけません",
+        "C": "だめです",
+        "D": "禁止です"
+      },
+      "correctAnswer": "C",
+      "explanation": "This question needs improvement. There's a repetition in the options, and the grammar is incorrect."
+    },
+    {
+      "id": 18,
+      "question": {
+        "japanese": "新しい靴を買いましたが、少し＿＿＿です。サイズが合っていないかもしれません。"
+      },
+      "options": {
+        "A": "きつい",
+        "B": "ゆるい",
+        "C": "重い",
+        "D": "軽い"
+      },
+      "correctAnswer": "A",
+      "explanation": "This question needs improvement. The correct answer doesn't fit the context well."
+    },
+    {
+      "id": 19,
+      "question": {
+        "japanese": "電車の中で、お年寄りのために席を＿＿＿人が多いです。"
+      },
+      "options": {
+        "A": "譲る",
+        "B": "占める",
+        "C": "探す",
+        "D": "取る"
+      },
+      "correctAnswer": "A",
+      "explanation": "This question needs improvement. The verb doesn't match the context."
+    },
+    {
+      "id": 20,
+      "question": {
+        "japanese": "この道を＿＿＿に進んでください。右ではありません。"
+      },
+      "options": {
+        "A": "左",
+        "B": "中",
+        "C": "高い",
+        "D": "遠い"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 21,
+      "question": {
+        "japanese": "私の＿＿＿は5人です。両親と兄弟がいます。"
+      },
+      "options": {
+        "A": "家族",
+        "B": "学生",
+        "C": "女",
+        "D": "伯母さん"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 22,
+      "question": {
+        "japanese": "今日は4月28日です。明後日は何日ですか。"
+      },
+      "options": {
+        "A": "29日",
+        "B": "30日",
+        "C": "5月1日",
+        "D": "5月2日"
+      },
+      "correctAnswer": "B",
+      "explanation": "This question needs improvement as it requires external information not provided in the question."
+    },
+    {
+      "id": 23,
+      "question": {
+        "japanese": "レストランで食事の後、お会計のために＿＿＿を出します。"
+      },
+      "options": {
+        "A": "ボールペン",
+        "B": "財布",
+        "C": "靴下",
+        "D": "お菓子"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 24,
+      "question": {
+        "japanese": "彼女は料理が上手です。私の料理の＿＿＿が良くないです。"
+      },
+      "options": {
+        "A": "ほう",
+        "B": "方",
+        "C": "腕前",
+        "D": "味"
+      },
+      "correctAnswer": "B",
+      "explanation": "This question needs improvement as it lacks context and might be confusing."
+    },
+    {
+      "id": 25,
+      "question": {
+        "japanese": "この本は＿＿＿重いです。1000グラムもあります。"
+      },
+      "options": {
+        "A": "かなり",
+        "B": "とても",
+        "C": "すごく",
+        "D": "非常に"
+      },
+      "correctAnswer": "B",
+      "explanation": "This question needs improvement as the correct answer is debatable."
+    },
+    {
+      "id": 26,
+      "question": {
+        "japanese": "＿＿＿靴がいいですか。赤いのか青いのか黒いのか。"
+      },
+      "options": {
+        "A": "どの",
+        "B": "どれ",
+        "C": "どんな",
+        "D": "ほう"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 27,
+      "question": {
+        "japanese": "私の家から学校まではとても＿＿＿です。電車で1時間かかります。"
+      },
+      "options": {
+        "A": "遠い",
+        "B": "高い",
+        "C": "黄色い",
+        "D": "丸い"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 28,
+      "question": {
+        "japanese": "この仕事は来週の金曜日まで＿＿＿必要があります。"
+      },
+      "options": {
+        "A": "終わらせる",
+        "B": "完成させる",
+        "C": "仕上げる",
+        "D": "片付ける"
+      },
+      "correctAnswer": "B",
+      "explanation": "This question needs improvement to test a more specific language point."
+    },
+    {
+      "id": 29,
+      "question": {
+        "japanese": "日本語の授業は毎週月曜日の午後3時＿＿＿に始まります。"
+      },
+      "options": {
+        "A": "ごろ",
+        "B": "円",
+        "C": "か月",
+        "D": "日"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 30,
+      "question": {
+        "japanese": "この＿＿＿は新しくて、とてもきれいです。10階建てです。"
+      },
+      "options": {
+        "A": "建物",
+        "B": "橋",
+        "C": "財布",
+        "D": "お菓子"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 31,
+      "question": {
+        "japanese": "私は毎晩11時に＿＿＿ます。早く起きるためです。"
+      },
+      "options": {
+        "A": "寝る",
+        "B": "出る",
+        "C": "答える",
+        "D": "できる"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 32,
+      "question": {
+        "japanese": "このケーキは1000＿＿＿です。少し重いですね。"
+      },
+      "options": {
+        "A": "円",
+        "B": "日",
+        "C": "グラム",
+        "D": "か月"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 33,
+      "question": {
+        "japanese": "彼女は3＿＿＿前に日本に来ました。まだ日本語を勉強中です。"
+      },
+      "options": {
+        "A": "日",
+        "B": "か月",
+        "C": "円",
+        "D": "ごろ"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 34,
+      "question": {
+        "japanese": "これは私の＿＿＿のボールペンです。大切にしています。"
+      },
+      "options": {
+        "A": "愛用",
+        "B": "所有",
+        "C": "保管",
+        "D": "所持"
+      },
+      "correctAnswer": "A",
+      "explanation": "This question needs improvement to test a more specific language point."
+    },
+    {
+      "id": 35,
+      "question": {
+        "japanese": "駅の＿＿＿で友達と待ち合わせをしています。"
+      },
+      "options": {
+        "A": "中",
+        "B": "左",
+        "C": "遠い",
+        "D": "高い"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 36,
+      "question": {
+        "japanese": "この＿＿＿は車がたくさん通ります。歩くときは気をつけてください。"
+      },
+      "options": {
+        "A": "交差点",
+        "B": "お菓子",
+        "C": "財布",
+        "D": "靴下"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 37,
+      "question": {
+        "japanese": "今日の午後3時＿＿＿に会議があります。遅刻しないでください。"
+      },
+      "options": {
+        "A": "ごろ",
+        "B": "円",
+        "C": "グラム",
+        "D": "か月"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 38,
+      "question": {
+        "japanese": "これは＿＿＿服ですか。デザインや色を教えてください。"
+      },
+      "options": {
+        "A": "どの",
+        "B": "どれ",
+        "C": "どんな",
+        "D": "ほう"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 39,
+      "question": {
+        "japanese": "重要な書類を＿＿＿必要があります。元のはこのまま保管します。"
+      },
+      "options": {
+        "A": "コピーする",
+        "B": "寝る",
+        "C": "並ぶ",
+        "D": "答える"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 40,
+      "question": {
+        "japanese": "この＿＿＿は長くて美しいです。川の上を渡ることができます。"
+      },
+      "options": {
+        "A": "橋",
+        "B": "建物",
+        "C": "ドア",
+        "D": "財布"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 41,
+      "question": {
+        "japanese": "明日は学校の＿＿＿です。ゆっくり寝ることができます。"
+      },
+      "options": {
+        "A": "休み",
+        "B": "女",
+        "C": "家族",
+        "D": "学生"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 42,
+      "question": {
+        "japanese": "この部屋には＿＿＿がありません。外に出るには窓を使わなければなりません。"
+      },
+      "options": {
+        "A": "ドア",
+        "B": "お菓子",
+        "C": "財布",
+        "D": "靴下"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 43,
+      "question": {
+        "japanese": "日本の一般的な＿＿＿は白米です。パンを食べる人もいますが、多くの人が米を主食としています。"
+      },
+      "options": {
+        "A": "主食",
+        "B": "飲み物",
+        "C": "おやつ",
+        "D": "デザート"
+      },
+      "correctAnswer": "A",
+      "explanation": "This question needs improvement to focus more on language usage rather than personal habits. Here's a refined version:"
+    },
+    {
+      "id": 44,
+      "question": {
+        "japanese": "バスに乗るために、長い列に＿＿＿必要がありました。"
+      },
+      "options": {
+        "A": "並んで待つ",
+        "B": "寝て過ごす",
+        "C": "出て行く",
+        "D": "できるようになる"
+      },
+      "correctAnswer": "A",
+      "explanation": "This question is well-formed but can be improved to test more advanced language skills. Here's a refined version:"
+    },
+    {
+      "id": 45,
+      "question": {
+        "japanese": "これは私の大切な＿＿＿です。お金や カードが入っています。"
+      },
+      "options": {
+        "A": "財布",
+        "B": "お菓子",
+        "C": "靴下",
+        "D": "ボールペン"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 46,
+      "question": {
+        "japanese": "日本の伝統的な＿＿＿には、和菓子や洋菓子があります。多くの人が抹茶味やチョコレート味を楽しみます。"
+      },
+      "options": {
+        "A": "お菓子",
+        "B": "主食",
+        "C": "調味料",
+        "D": "飲み物"
+      },
+      "correctAnswer": "A",
+      "explanation": "This question is well-formed but can be improved to avoid personal preferences. Here's a refined version:"
+    },
+    {
+      "id": 47,
+      "question": {
+        "japanese": "私の弟は まだ ＿＿＿です。大学で勉強しています。"
+      },
+      "options": {
+        "A": "学生",
+        "B": "家族",
+        "C": "女",
+        "D": "伯母さん"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 48,
+      "question": {
+        "japanese": "新しい言葉を覚えるのは＿＿＿です。毎日の練習が上達への近道です。"
+      },
+      "options": {
+        "A": "大切",
+        "B": "簡単",
+        "C": "不要",
+        "D": "危険"
+      },
+      "correctAnswer": "A",
+      "explanation": "This question needs improvement as \"できる\" is not the best fit for the context. Here's a refined version:"
+    },
+    {
+      "id": 49,
+      "question": {
+        "japanese": "＿＿＿が好きですか。赤、青、黄色のどれが一番好きですか。"
+      },
+      "options": {
+        "A": "どの色",
+        "B": "どれ色",
+        "C": "どんな色",
+        "D": "ほう色"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 50,
+      "question": {
+        "japanese": "私の家から駅までは歩いて15分＿＿＿かかります。"
+      },
+      "options": {
+        "A": "ごろ",
+        "B": "円",
+        "C": "グラム",
+        "D": "か月"
+      },
+      "correctAnswer": "A"
+    }
+  ]
+}
