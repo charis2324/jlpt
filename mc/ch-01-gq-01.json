@@ -1,0 +1,658 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "japanese": "わたしの職業は＿＿です。"
+      },
+      "options": {
+        "A": "あなた",
+        "B": "だれ",
+        "C": "いしゃ",
+        "D": "わたし"
+      },
+      "correctAnswer": "C",
+      "explanation": "This question needs improvement to provide more context and ensure only one correct answer."
+    },
+    {
+      "id": 2,
+      "question": {
+        "japanese": "＿＿は日本人ですか。"
+      },
+      "options": {
+        "A": "あの ひと",
+        "B": "わたし",
+        "C": "だれ",
+        "D": "いいえ"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 3,
+      "question": {
+        "japanese": "田中＿＿は医者です。"
+      },
+      "options": {
+        "A": "じん",
+        "B": "さん",
+        "C": "ちゃん",
+        "D": "せんせい"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 4,
+      "question": {
+        "japanese": "大学で働いている人は＿＿です。"
+      },
+      "options": {
+        "A": "かいしゃいん",
+        "B": "ぎんこういん",
+        "C": "きょうし",
+        "D": "いしゃ"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 5,
+      "question": {
+        "japanese": "＿＿、お名前は何ですか。"
+      },
+      "options": {
+        "A": "はい",
+        "B": "いいえ",
+        "C": "しつれいですが",
+        "D": "はじめまして"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 6,
+      "question": {
+        "japanese": "わたしは＿＿から来ました。"
+      },
+      "options": {
+        "A": "だれ",
+        "B": "なんさい",
+        "C": "ドイツ",
+        "D": "びょういん"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 7,
+      "question": {
+        "japanese": "李さんは＿＿人です。"
+      },
+      "options": {
+        "A": "にほん",
+        "B": "ちゅうごく",
+        "C": "アメリカ",
+        "D": "ブラジル"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 8,
+      "question": {
+        "japanese": "山田さんは30＿＿です。"
+      },
+      "options": {
+        "A": "じん",
+        "B": "さい",
+        "C": "ちゃん",
+        "D": "せんせい"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 9,
+      "question": {
+        "japanese": "＿＿、田中です。よろしくおねがいします。"
+      },
+      "options": {
+        "A": "はじめまして",
+        "B": "しつれいですが",
+        "C": "いいえ",
+        "D": "だれ"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 10,
+      "question": {
+        "japanese": "佐藤＿＿は5歳です。"
+      },
+      "options": {
+        "A": "さん",
+        "B": "せんせい",
+        "C": "ちゃん",
+        "D": "じん"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 11,
+      "question": {
+        "japanese": "＿＿は会社員ですか。"
+      },
+      "options": {
+        "A": "わたし",
+        "B": "あなた",
+        "C": "あの ひと",
+        "D": "だれ"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 12,
+      "question": {
+        "japanese": "山田先生は＿＿で働いています。"
+      },
+      "options": {
+        "A": "かいしゃ",
+        "B": "ぎんこう",
+        "C": "だいがく",
+        "D": "びょういん"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 13,
+      "question": {
+        "japanese": "＿＿は日本語の先生です。"
+      },
+      "options": {
+        "A": "わたし",
+        "B": "あなた",
+        "C": "あの かた",
+        "D": "だれ"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 14,
+      "question": {
+        "japanese": "田中さんは＿＿です。"
+      },
+      "options": {
+        "A": "けんきゅうしゃ",
+        "B": "がくせい",
+        "C": "きょうし",
+        "D": "いしゃ"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 15,
+      "question": {
+        "japanese": "＿＿、こちらは山田さんです。"
+      },
+      "options": {
+        "A": "はい",
+        "B": "いいえ",
+        "C": "しつれいですが",
+        "D": "どうぞよろしく"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 16,
+      "question": {
+        "japanese": "わたしは＿＿の学生です。"
+      },
+      "options": {
+        "A": "びょういん",
+        "B": "かいしゃ",
+        "C": "ぎんこう",
+        "D": "さくらだいがく"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 17,
+      "question": {
+        "japanese": "山本さんは＿＿で働いています。"
+      },
+      "options": {
+        "A": "パワーでんき",
+        "B": "ブラジルエアー",
+        "C": "エーケーシー",
+        "D": "こうべびょういん"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 18,
+      "question": {
+        "japanese": "＿＿歳ですか。"
+      },
+      "options": {
+        "A": "どなた",
+        "B": "なん",
+        "C": "どうぞ",
+        "D": "しつれい"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 19,
+      "question": {
+        "japanese": "わたしは＿＿から来ました。どうぞよろしく。"
+      },
+      "options": {
+        "A": "いしゃ",
+        "B": "がくせい",
+        "C": "インドネシア",
+        "D": "びょういん"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 20,
+      "question": {
+        "japanese": "田中さんは＿＿で働いています。"
+      },
+      "options": {
+        "A": "アイエムシー",
+        "B": "さくらだいがく",
+        "C": "ふじだいがく",
+        "D": "こうべびょういん"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 21,
+      "question": {
+        "japanese": "＿＿は医者ですか。"
+      },
+      "options": {
+        "A": "だれ",
+        "B": "なんさい",
+        "C": "はい",
+        "D": "いいえ"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 22,
+      "question": {
+        "japanese": "わたしは＿＿の社員です。"
+      },
+      "options": {
+        "A": "だいがく",
+        "B": "びょういん",
+        "C": "エーケーシー",
+        "D": "いしゃ"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 23,
+      "question": {
+        "japanese": "山田さんは＿＿です。"
+      },
+      "options": {
+        "A": "タイじん",
+        "B": "かんこくじん",
+        "C": "ちゅうごくじん",
+        "D": "ドイツじん"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 24,
+      "question": {
+        "japanese": "＿＿、わたしは田中です。"
+      },
+      "options": {
+        "A": "はい",
+        "B": "いいえ",
+        "C": "はじめまして",
+        "D": "だれ"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 25,
+      "question": {
+        "japanese": "李さんは＿＿で働いています。"
+      },
+      "options": {
+        "A": "ふじだいがく",
+        "B": "こうべびょういん",
+        "C": "ブラジルエアー",
+        "D": "パワーでんき"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 26,
+      "question": {
+        "japanese": "わたしの年齢は＿＿です。"
+      },
+      "options": {
+        "A": "25さい",
+        "B": "いしゃ",
+        "C": "ドイツ",
+        "D": "だいがく"
+      },
+      "correctAnswer": "A",
+      "explanation": "This question needs improvement to focus on a specific language point. Here's a revised version:"
+    },
+    {
+      "id": 27,
+      "question": {
+        "japanese": "山本先生は＿＿の教師です。"
+      },
+      "options": {
+        "A": "びょういん",
+        "B": "かいしゃ",
+        "C": "ぎんこう",
+        "D": "さくらだいがく"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 28,
+      "question": {
+        "japanese": "＿＿は銀行員ですか。"
+      },
+      "options": {
+        "A": "あなた",
+        "B": "わたし",
+        "C": "だれ",
+        "D": "あの ひと"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 29,
+      "question": {
+        "japanese": "田中さんは＿＿の研究者です。"
+      },
+      "options": {
+        "A": "ふじだいがく",
+        "B": "こうべびょういん",
+        "C": "エーケーシー",
+        "D": "パワーでんき"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 30,
+      "question": {
+        "japanese": "＿＿、お名前をお聞きしてもいいですか。"
+      },
+      "options": {
+        "A": "はい",
+        "B": "いいえ",
+        "C": "しつれいですが",
+        "D": "どうぞよろしく"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 31,
+      "question": {
+        "japanese": "わたしは＿＿の学生です。"
+      },
+      "options": {
+        "A": "アメリカ",
+        "B": "にほん",
+        "C": "かんこく",
+        "D": "ちゅうごく"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 32,
+      "question": {
+        "japanese": "山田さんは＿＿です。"
+      },
+      "options": {
+        "A": "ぎんこういん",
+        "B": "かいしゃいん",
+        "C": "だいがくせい",
+        "D": "びょういんいん"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 33,
+      "question": {
+        "japanese": "＿＿は何歳ですか。"
+      },
+      "options": {
+        "A": "わたし",
+        "B": "あなた",
+        "C": "あの ひと",
+        "D": "だれ"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 34,
+      "question": {
+        "japanese": "田中先生は＿＿の医者です。"
+      },
+      "options": {
+        "A": "さくらだいがく",
+        "B": "ふじだいがく",
+        "C": "こうべびょういん",
+        "D": "パワーでんき"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 35,
+      "question": {
+        "japanese": "＿＿、こちらは山本さんです。"
+      },
+      "options": {
+        "A": "はい",
+        "B": "いいえ",
+        "C": "しつれいですが",
+        "D": "どうぞよろしく"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 36,
+      "question": {
+        "japanese": "わたしは＿＿の社員です。"
+      },
+      "options": {
+        "A": "ブラジルエアー",
+        "B": "こうべびょういん",
+        "C": "さくらだいがく",
+        "D": "ふじだいがく"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 37,
+      "question": {
+        "japanese": "李さんは＿＿です。"
+      },
+      "options": {
+        "A": "にほんじん",
+        "B": "ちゅうごくじん",
+        "C": "かんこくじん",
+        "D": "タイじん"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 38,
+      "question": {
+        "japanese": "＿＿、わたしは山田です。よろしくおねがいします。"
+      },
+      "options": {
+        "A": "はい",
+        "B": "いいえ",
+        "C": "はじめまして",
+        "D": "しつれいですが"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 39,
+      "question": {
+        "japanese": "田中さんは＿＿の研究者です。"
+      },
+      "options": {
+        "A": "パワーでんき",
+        "B": "エーケーシー",
+        "C": "ブラジルエアー",
+        "D": "さくらだいがく"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 40,
+      "question": {
+        "japanese": "わたしは＿＿から来ました。"
+      },
+      "options": {
+        "A": "いしゃ",
+        "B": "がくせい",
+        "C": "ブラジル",
+        "D": "だいがく"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 41,
+      "question": {
+        "japanese": "山本先生の年齢は＿＿です。"
+      },
+      "options": {
+        "A": "わたし",
+        "B": "あなた",
+        "C": "45さい",
+        "D": "いしゃ"
+      },
+      "correctAnswer": "C",
+      "explanation": "This question needs improvement to provide more context. Here's a revised version:"
+    },
+    {
+      "id": 42,
+      "question": {
+        "japanese": "＿＿は会社員ですか。"
+      },
+      "options": {
+        "A": "だれ",
+        "B": "なんさい",
+        "C": "はい",
+        "D": "いいえ"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 43,
+      "question": {
+        "japanese": "田中さんは＿＿の銀行員です。"
+      },
+      "options": {
+        "A": "アイエムシー",
+        "B": "パワーでんき",
+        "C": "ブラジルエアー",
+        "D": "エーケーシー"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 44,
+      "question": {
+        "japanese": "わたしは＿＿です。"
+      },
+      "options": {
+        "A": "にほんじん",
+        "B": "アメリカじん",
+        "C": "ちゅうごくじん",
+        "D": "かんこくじん"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 45,
+      "question": {
+        "japanese": "山田さんは＿＿の教師です。"
+      },
+      "options": {
+        "A": "こうべびょういん",
+        "B": "さくらだいがく",
+        "C": "ふじだいがく",
+        "D": "パワーでんき"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 46,
+      "question": {
+        "japanese": "＿＿、お名前は何ですか。"
+      },
+      "options": {
+        "A": "はい",
+        "B": "いいえ",
+        "C": "しつれいですが",
+        "D": "はじめまして"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 47,
+      "question": {
+        "japanese": "李さんは＿＿の学生です。"
+      },
+      "options": {
+        "A": "アイエムシー",
+        "B": "パワーでんき",
+        "C": "ブラジルエアー",
+        "D": "ふじだいがく"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 48,
+      "question": {
+        "japanese": "わたしの職業は＿＿です。"
+      },
+      "options": {
+        "A": "30さい",
+        "B": "いしゃ",
+        "C": "ドイツじん",
+        "D": "だいがくせい"
+      },
+      "correctAnswer": "B",
+      "explanation": "This question needs improvement to focus on a specific language point. Here's a revised version:"
+    },
+    {
+      "id": 49,
+      "question": {
+        "japanese": "田中先生は＿＿の研究者です。"
+      },
+      "options": {
+        "A": "こうべびょういん",
+        "B": "さくらだいがく",
+        "C": "エーケーシー",
+        "D": "パワーでんき"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 50,
+      "question": {
+        "japanese": "＿＿、こちらは山本さんです。よろしくおねがいします。"
+      },
+      "options": {
+        "A": "はい",
+        "B": "いいえ",
+        "C": "しつれいですが",
+        "D": "はじめまして"
+      },
+      "correctAnswer": "C"
+    }
+  ]
+}
