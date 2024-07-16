@@ -1,0 +1,666 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "japanese": "私は＿＿＿のが好きです。休みの日によく山に行きます。"
+      },
+      "options": {
+        "A": "読む",
+        "B": "走る",
+        "C": "泳ぐ",
+        "D": "登る"
+      },
+      "correctAnswer": "D",
+      "explanation": "This question needs improvement. The correct answer is too obvious, and the question doesn't effectively test language skills."
+    },
+    {
+      "id": 2,
+      "question": {
+        "japanese": "彼女は新しい言葉を＿＿＿のが上手です。"
+      },
+      "options": {
+        "A": "ならう",
+        "B": "かぶる",
+        "C": "はなす",
+        "D": "おく"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 3,
+      "question": {
+        "japanese": "この本は値段が＿＿＿ので、学生でも買えます。"
+      },
+      "options": {
+        "A": "しずか",
+        "B": "おおきい",
+        "C": "はれる",
+        "D": "やすい"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 4,
+      "question": {
+        "japanese": "朝ごはんを食べるとき、米を入れる器を何と言いますか。"
+      },
+      "options": {
+        "A": "鍋",
+        "B": "皿",
+        "C": "茶碗",
+        "D": "カップ"
+      },
+      "correctAnswer": "C",
+      "explanation": "This question needs improvement. It's too basic for JLPT N4 level and doesn't test language skills effectively."
+    },
+    {
+      "id": 5,
+      "question": {
+        "japanese": "冬は帽子を＿＿＿ことが多いです。"
+      },
+      "options": {
+        "A": "おく",
+        "B": "かぶる",
+        "C": "のぼる",
+        "D": "はなす"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 6,
+      "question": {
+        "japanese": "日本語で＿＿＿ことが難しいですが、毎日練習しています。"
+      },
+      "options": {
+        "A": "読む",
+        "B": "書く",
+        "C": "話す",
+        "D": "聞く"
+      },
+      "correctAnswer": "C",
+      "explanation": "This question needs improvement. It's too simple and the correct answer is obvious."
+    },
+    {
+      "id": 7,
+      "question": {
+        "japanese": "本を棚に＿＿＿ください。"
+      },
+      "options": {
+        "A": "のぼる",
+        "B": "はなす",
+        "C": "おく",
+        "D": "かぶる"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 8,
+      "question": {
+        "japanese": "左と反対の方向は＿＿＿です。"
+      },
+      "options": {
+        "A": "えき",
+        "B": "からだ",
+        "C": "やま",
+        "D": "みぎ"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 9,
+      "question": {
+        "japanese": "雨が止んで、空が＿＿＿ました。"
+      },
+      "options": {
+        "A": "あそぶ",
+        "B": "はれる",
+        "C": "こまる",
+        "D": "のぼる"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 10,
+      "question": {
+        "japanese": "図書館は＿＿＿な場所です。"
+      },
+      "options": {
+        "A": "しずか",
+        "B": "あか",
+        "C": "やすい",
+        "D": "おおきい"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 11,
+      "question": {
+        "japanese": "日本には高い＿＿＿がたくさんあります。"
+      },
+      "options": {
+        "A": "やま",
+        "B": "えき",
+        "C": "ほん",
+        "D": "くつ"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 12,
+      "question": {
+        "japanese": "テストのために、＿＿＿を使って重要な部分に線を引きます。"
+      },
+      "options": {
+        "A": "のり",
+        "B": "消しゴム",
+        "C": "はさみ",
+        "D": "蛍光ペン"
+      },
+      "correctAnswer": "D",
+      "explanation": "This question needs improvement. It's too simple for JLPT N4 level and doesn't effectively test language skills."
+    },
+    {
+      "id": 13,
+      "question": {
+        "japanese": "友達と＿＿＿に映画を見に行きました。"
+      },
+      "options": {
+        "A": "よっつ",
+        "B": "ふたつ",
+        "C": "もっと",
+        "D": "いっしょ"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 14,
+      "question": {
+        "japanese": "私の家族は5人です。両親と＿＿＿人兄弟です。"
+      },
+      "options": {
+        "A": "ひとり",
+        "B": "ふたり",
+        "C": "よにん",
+        "D": "さんにん"
+      },
+      "correctAnswer": "D",
+      "explanation": "This question needs improvement. It's unclear and doesn't provide enough context for a definitive answer."
+    },
+    {
+      "id": 15,
+      "question": {
+        "japanese": "日本語を上達させるために、毎日＿＿＿をします。"
+      },
+      "options": {
+        "A": "発音練習",
+        "B": "復習",
+        "C": "暗記",
+        "D": "文法練習"
+      },
+      "correctAnswer": "B",
+      "explanation": "This question needs improvement. The correct answer is too obvious."
+    },
+    {
+      "id": 16,
+      "question": {
+        "japanese": "この象は体が＿＿＿です。"
+      },
+      "options": {
+        "A": "しずか",
+        "B": "おおきい",
+        "C": "あか",
+        "D": "やすい"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 17,
+      "question": {
+        "japanese": "＿＿＿、私は行きません。"
+      },
+      "options": {
+        "A": "もっと",
+        "B": "けさ",
+        "C": "でも",
+        "D": "では"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 18,
+      "question": {
+        "japanese": "今日は学校が＿＿＿なので、家にいます。"
+      },
+      "options": {
+        "A": "からだ",
+        "B": "がいこく",
+        "C": "おとな",
+        "D": "やすみ"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 19,
+      "question": {
+        "japanese": "人間の＿＿＿は複雑です。"
+      },
+      "options": {
+        "A": "からだ",
+        "B": "くつ",
+        "C": "やま",
+        "D": "えき"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 20,
+      "question": {
+        "japanese": "外を歩くときは＿＿＿を履きます。"
+      },
+      "options": {
+        "A": "くつ",
+        "B": "ワイシャツ",
+        "C": "ズボン",
+        "D": "せっけん"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 21,
+      "question": {
+        "japanese": "日本以外の国を何と言いますか。"
+      },
+      "options": {
+        "A": "がいこく",
+        "B": "おとな",
+        "C": "えき",
+        "D": "やすみ"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 22,
+      "question": {
+        "japanese": "今朝、何時に起きましたか。「＿＿＿」と答えるとき、どの言葉を使いますか。"
+      },
+      "options": {
+        "A": "あさ",
+        "B": "よる",
+        "C": "ごぜん",
+        "D": "ごご"
+      },
+      "correctAnswer": "C",
+      "explanation": "This question needs improvement. It's a fill-in-the-blank question where multiple options could logically fit, and it asks about personal information."
+    },
+    {
+      "id": 23,
+      "question": {
+        "japanese": "この料理は美味しいですが、＿＿＿塩を入れたほうがいいです。"
+      },
+      "options": {
+        "A": "では",
+        "B": "けさ",
+        "C": "もっと",
+        "D": "でも"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 24,
+      "question": {
+        "japanese": "長い＿＿＿を履いて、会社に行きます。"
+      },
+      "options": {
+        "A": "くつ",
+        "B": "ズボン",
+        "C": "えんぴつ",
+        "D": "ちゃわん"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 25,
+      "question": {
+        "japanese": "本を＿＿＿に置きます。"
+      },
+      "options": {
+        "A": "おてあらい",
+        "B": "じてんしゃ",
+        "C": "ほんだな",
+        "D": "あさごはん"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 26,
+      "question": {
+        "japanese": "朝、起きてから食べる食事を何と言いますか。"
+      },
+      "options": {
+        "A": "あさごはん",
+        "B": "からだ",
+        "C": "やすみ",
+        "D": "ごご"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 27,
+      "question": {
+        "japanese": "トマトは＿＿＿い色です。"
+      },
+      "options": {
+        "A": "しずか",
+        "B": "あか",
+        "C": "おおきい",
+        "D": "やすい"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 28,
+      "question": {
+        "japanese": "田中＿＿＿は私の先生です。"
+      },
+      "options": {
+        "A": "あね",
+        "B": "～さん",
+        "C": "おとな",
+        "D": "し"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 29,
+      "question": {
+        "japanese": "電車に乗るために＿＿＿に行きます。"
+      },
+      "options": {
+        "A": "えき",
+        "B": "ほん",
+        "C": "くつ",
+        "D": "やま"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 30,
+      "question": {
+        "japanese": "図書館で＿＿＿を借りました。"
+      },
+      "options": {
+        "A": "ちゃわん",
+        "B": "ほん",
+        "C": "えんぴつ",
+        "D": "くつ"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 31,
+      "question": {
+        "japanese": "子供ではなく、＿＿＿の人を何と言いますか。"
+      },
+      "options": {
+        "A": "あね",
+        "B": "し",
+        "C": "やすみ",
+        "D": "おとな"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 32,
+      "question": {
+        "japanese": "手を洗うときに使うものは何ですか。"
+      },
+      "options": {
+        "A": "えんぴつ",
+        "B": "せっけん",
+        "C": "ちゃわん",
+        "D": "ズボン"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 33,
+      "question": {
+        "japanese": "私には兄と＿＿＿がいます。"
+      },
+      "options": {
+        "A": "あね",
+        "B": "～さん",
+        "C": "おとな",
+        "D": "し"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 34,
+      "question": {
+        "japanese": "日本の都道府県の一つは何ですか。"
+      },
+      "options": {
+        "A": "やま",
+        "B": "とうきょうと",
+        "C": "ほん",
+        "D": "えき"
+      },
+      "correctAnswer": "B",
+      "explanation": "This question needs improvement. The correct answer \"し\" (city) doesn't match the description of \"大きな行政区分\" (large administrative division) like Tokyo or Osaka."
+    },
+    {
+      "id": 35,
+      "question": {
+        "japanese": "自転車の読み方は何ですか。"
+      },
+      "options": {
+        "A": "あさごはん",
+        "B": "ワイシャツ",
+        "C": "じてんしゃ",
+        "D": "おてあらい"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 36,
+      "question": {
+        "japanese": "会社で着る白い上着のことを日本語で何と言いますか。"
+      },
+      "options": {
+        "A": "ズボン",
+        "B": "せっけん",
+        "C": "くつ",
+        "D": "ワイシャツ"
+      },
+      "correctAnswer": "D",
+      "explanation": "This question needs improvement. It uses English words in the question stem, which should be avoided."
+    },
+    {
+      "id": 37,
+      "question": {
+        "japanese": "富士山に＿＿＿のは難しいです。"
+      },
+      "options": {
+        "A": "かぶる",
+        "B": "はなす",
+        "C": "のぼる",
+        "D": "おく"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 38,
+      "question": {
+        "japanese": "答えが分からなくて＿＿＿ています。"
+      },
+      "options": {
+        "A": "あそぶ",
+        "B": "こまる",
+        "C": "ならう",
+        "D": "はれる"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 39,
+      "question": {
+        "japanese": "手を洗うために＿＿＿に行きます。"
+      },
+      "options": {
+        "A": "ほんだな",
+        "B": "えき",
+        "C": "おてあらい",
+        "D": "あさごはん"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 40,
+      "question": {
+        "japanese": "12時から夜までの時間帯を何と言いますか。"
+      },
+      "options": {
+        "A": "やすみ",
+        "B": "けさ",
+        "C": "いっしょ",
+        "D": "ごご"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 41,
+      "question": {
+        "japanese": "動物園で見られるものは何ですか。"
+      },
+      "options": {
+        "A": "えんぴつ",
+        "B": "ほん",
+        "C": "ちゃわん",
+        "D": "どうぶつ"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 42,
+      "question": {
+        "japanese": "学校で勉強した後、友達と公園で何をしますか。"
+      },
+      "options": {
+        "A": "べんきょうします",
+        "B": "はたらきます",
+        "C": "あそびます",
+        "D": "ねます"
+      },
+      "correctAnswer": "C",
+      "explanation": "This question needs improvement. It's a fill-in-the-blank type where multiple options could fit, violating criterion 3. Let's modify it to test understanding of verb usage more effectively."
+    },
+    {
+      "id": 43,
+      "question": {
+        "japanese": "スーパーでりんごを2つ買いました。日本語で「2つ」は何と言いますか。"
+      },
+      "options": {
+        "A": "ひとつ",
+        "B": "ふたつ",
+        "C": "よっつ",
+        "D": "みっつ"
+      },
+      "correctAnswer": "B",
+      "explanation": "This question needs improvement. The context is insufficient, and multiple answers could be correct depending on the situation. Let's modify it to provide more context and test number-related vocabulary."
+    },
+    {
+      "id": 44,
+      "question": {
+        "japanese": "日本語の＿＿＿は難しいです。"
+      },
+      "options": {
+        "A": "べんきょう",
+        "B": "のぼる",
+        "C": "かぶる",
+        "D": "あそぶ"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 45,
+      "question": {
+        "japanese": "この部屋は広くて＿＿＿です。"
+      },
+      "options": {
+        "A": "あつい",
+        "B": "くらい",
+        "C": "きれい",
+        "D": "やすい"
+      },
+      "correctAnswer": "C",
+      "explanation": "This question needs improvement. The correct answer doesn't fit grammatically with the stem. Let's modify it to test adjective usage more effectively."
+    },
+    {
+      "id": 46,
+      "question": {
+        "japanese": "この商品は値段が＿＿＿です。100円ぐらいです。"
+      },
+      "options": {
+        "A": "やすい",
+        "B": "しずか",
+        "C": "おおきい",
+        "D": "あか"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 47,
+      "question": {
+        "japanese": "お茶を飲むときに使う日本の伝統的な器は何ですか。"
+      },
+      "options": {
+        "A": "えんぴつ",
+        "B": "ズボン",
+        "C": "くつ",
+        "D": "ちゃわん"
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 48,
+      "question": {
+        "japanese": "寒い日には帽子を＿＿＿ます。"
+      },
+      "options": {
+        "A": "はなす",
+        "B": "かぶる",
+        "C": "のぼる",
+        "D": "おく"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 49,
+      "question": {
+        "japanese": "友達と日本語で＿＿＿ます。"
+      },
+      "options": {
+        "A": "のぼる",
+        "B": "おく",
+        "C": "はなす",
+        "D": "かぶる"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 50,
+      "question": {
+        "japanese": "本を机の上に＿＿＿ました。"
+      },
+      "options": {
+        "A": "かぶる",
+        "B": "のぼる",
+        "C": "おく",
+        "D": "はなす"
+      },
+      "correctAnswer": "C"
+    }
+  ]
+}
