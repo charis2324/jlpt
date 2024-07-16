@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "japanese": "山に＿＿＿とき、何を持っていきますか。"
+      },
+      "options": {
+        "A": "のぼる",
+        "B": "はなす",
+        "C": "かぶる",
+        "D": "おく"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Easy",
+      "questionType": "Usage"
+    },
+    {
+      "id": 2,
+      "question": {
+        "japanese": "彼女は静かな部屋で＿＿＿をしています。"
+      },
+      "options": {
+        "A": "べんきょう",
+        "B": "かぶる",
+        "C": "はれる",
+        "D": "あそぶ"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Medium",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 3,
+      "question": {
+        "japanese": "この本だなには＿＿＿が多くあります。"
+      },
+      "options": {
+        "A": "くつ",
+        "B": "せっけん",
+        "C": "えんぴつ",
+        "D": "ほん"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Easy",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 4,
+      "question": {
+        "japanese": "朝ごはんを食べた＿＿＿、学校に行きます。"
+      },
+      "options": {
+        "A": "では",
+        "B": "から",
+        "C": "くらい",
+        "D": "でも"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Medium",
+      "questionType": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": {
+        "japanese": "この漢字の読み方を選んでください：大人"
+      },
+      "options": {
+        "A": "おとな",
+        "B": "おとこ",
+        "C": "おおきい",
+        "D": "だいじん"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Medium",
+      "questionType": "Kanji"
+    },
+    {
+      "id": 6,
+      "question": {
+        "japanese": "日本の電車の中では、＿＿＿で話すことが望ましいです。"
+      },
+      "options": {
+        "A": "しずかな声",
+        "B": "こまった声",
+        "C": "はれた声",
+        "D": "おおきい声"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Medium",
+      "questionType": "Cultural"
+    },
+    {
+      "id": 7,
+      "question": {
+        "japanese": "彼は新しい言葉を＿＿＿ために、毎日日本語を勉強しています。"
+      },
+      "options": {
+        "A": "のぼる",
+        "B": "こまる",
+        "C": "ならう",
+        "D": "はれる"
+      },
+      "correctAnswer": "C",
+      "difficulty": "Medium",
+      "questionType": "Usage"
+    },
+    {
+      "id": 8,
+      "question": {
+        "japanese": "私の＿＿＿は看護師です。彼女は病院で働いています。"
+      },
+      "options": {
+        "A": "あね",
+        "B": "し",
+        "C": "おとな",
+        "D": "やま"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Easy",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 9,
+      "question": {
+        "japanese": "日本では、家に入るとき＿＿＿を脱ぎます。"
+      },
+      "options": {
+        "A": "ズボン",
+        "B": "せっけん",
+        "C": "ワイシャツ",
+        "D": "くつ"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Easy",
+      "questionType": "Cultural"
+    },
+    {
+      "id": 10,
+      "question": {
+        "japanese": "田中＿＿＿は今日会社を休んでいます。"
+      },
+      "options": {
+        "A": "くん",
+        "B": "せんせい",
+        "C": "ちゃん",
+        "D": "さん"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Easy",
+      "questionType": "Usage"
+    },
+    {
+      "id": 11,
+      "question": {
+        "japanese": "私は毎朝7時＿＿＿に起きます。"
+      },
+      "options": {
+        "A": "では",
+        "B": "まで",
+        "C": "くらい",
+        "D": "から"
+      },
+      "correctAnswer": "C",
+      "difficulty": "Medium",
+      "questionType": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": {
+        "japanese": "この漢字の読み方を選んでください：右"
+      },
+      "options": {
+        "A": "みぎ",
+        "B": "した",
+        "C": "ひだり",
+        "D": "うえ"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Medium",
+      "questionType": "Kanji"
+    },
+    {
+      "id": 13,
+      "question": {
+        "japanese": "日本の伝統的な食器で、お茶を飲むのに使うものは何ですか。"
+      },
+      "options": {
+        "A": "ほんだな",
+        "B": "えんぴつ",
+        "C": "じてんしゃ",
+        "D": "ちゃわん"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Medium",
+      "questionType": "Cultural"
+    },
+    {
+      "id": 14,
+      "question": {
+        "japanese": "明日は天気が＿＿＿そうです。外で遊べそうですね。"
+      },
+      "options": {
+        "A": "しずか",
+        "B": "おおきい",
+        "C": "はれる",
+        "D": "やすい"
+      },
+      "correctAnswer": "C",
+      "difficulty": "Medium",
+      "questionType": "Usage"
+    },
+    {
+      "id": 15,
+      "question": {
+        "japanese": "私は弟と＿＿＿に映画を見に行きます。"
+      },
+      "options": {
+        "A": "ふたつ",
+        "B": "いっしょ",
+        "C": "もっと",
+        "D": "よっつ"
+      },
+      "correctAnswer": "B",
+      "difficulty": "Easy",
+      "questionType": "Usage"
+    },
+    {
+      "id": 16,
+      "question": {
+        "japanese": "彼女は日本語を＿＿＿ことができます。"
+      },
+      "options": {
+        "A": "おく",
+        "B": "はなす",
+        "C": "のぼる",
+        "D": "かぶる"
+      },
+      "correctAnswer": "B",
+      "difficulty": "Easy",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 17,
+      "question": {
+        "japanese": "この本は＿＿＿ので、多くの人が買っています。"
+      },
+      "options": {
+        "A": "やすい",
+        "B": "はれる",
+        "C": "おおきい",
+        "D": "しずか"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Easy",
+      "questionType": "Usage"
+    },
+    {
+      "id": 18,
+      "question": {
+        "japanese": "日曜日は学校の＿＿＿です。"
+      },
+      "options": {
+        "A": "がいこく",
+        "B": "からだ",
+        "C": "おてあらい",
+        "D": "やすみ"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Easy",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 19,
+      "question": {
+        "japanese": "私の＿＿＿が痛いので、今日は休みます。"
+      },
+      "options": {
+        "A": "えんぴつ",
+        "B": "ほんだな",
+        "C": "くつ",
+        "D": "からだ"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Medium",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 20,
+      "question": {
+        "japanese": "この漢字の読み方を選んでください：本"
+      },
+      "options": {
+        "A": "もと",
+        "B": "ぼん",
+        "C": "ほん",
+        "D": "ぽん"
+      },
+      "correctAnswer": "C",
+      "difficulty": "Easy",
+      "questionType": "Kanji"
+    },
+    {
+      "id": 21,
+      "question": {
+        "japanese": "彼は手を洗うために＿＿＿に行きました。"
+      },
+      "options": {
+        "A": "やま",
+        "B": "がいこく",
+        "C": "えき",
+        "D": "おてあらい"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Medium",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 22,
+      "question": {
+        "japanese": "私は毎日自転車で学校に＿＿＿。"
+      },
+      "options": {
+        "A": "のぼる",
+        "B": "くる",
+        "C": "いく",
+        "D": "かえる"
+      },
+      "correctAnswer": "C",
+      "difficulty": "Medium",
+      "questionType": "Usage"
+    },
+    {
+      "id": 23,
+      "question": {
+        "japanese": "彼女は＿＿＿日本語を勉強したいと言っています。"
+      },
+      "options": {
+        "A": "もっと",
+        "B": "ふたつ",
+        "C": "いっしょ",
+        "D": "よっつ"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Medium",
+      "questionType": "Usage"
+    },
+    {
+      "id": 24,
+      "question": {
+        "japanese": "私は＿＿＿新聞を読みました。"
+      },
+      "options": {
+        "A": "ごご",
+        "B": "やすみ",
+        "C": "あさごはん",
+        "D": "けさ"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Medium",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 25,
+      "question": {
+        "japanese": "この漢字の読み方を選んでください：駅"
+      },
+      "options": {
+        "A": "まち",
+        "B": "やま",
+        "C": "くに",
+        "D": "えき"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Medium",
+      "questionType": "Kanji"
+    },
+    {
+      "id": 26,
+      "question": {
+        "japanese": "日本の学校では、生徒は制服を＿＿＿ことが多いです。"
+      },
+      "options": {
+        "A": "かぶる",
+        "B": "はなす",
+        "C": "おく",
+        "D": "のぼる"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Difficult",
+      "questionType": "Usage"
+    },
+    {
+      "id": 27,
+      "question": {
+        "japanese": "私は＿＿＿が好きです。特に猫や犬が好きです。"
+      },
+      "options": {
+        "A": "ワイシャツ",
+        "B": "えき",
+        "C": "やま",
+        "D": "どうぶつ"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Easy",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 28,
+      "question": {
+        "japanese": "この問題は難しくて＿＿＿。"
+      },
+      "options": {
+        "A": "こまります",
+        "B": "はれます",
+        "C": "のぼります",
+        "D": "ならいます"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Difficult",
+      "questionType": "Usage"
+    },
+    {
+      "id": 29,
+      "question": {
+        "japanese": "彼女は＿＿＿に住んでいます。"
+      },
+      "options": {
+        "A": "ほんだな",
+        "B": "あさごはん",
+        "C": "おてあらい",
+        "D": "がいこく"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Easy",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 30,
+      "question": {
+        "japanese": "日本の信号機の「止まれ」の色は＿＿＿です。"
+      },
+      "options": {
+        "A": "あか",
+        "B": "きいろ",
+        "C": "しろ",
+        "D": "あお"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Easy",
+      "questionType": "Cultural"
+    },
+    {
+      "id": 31,
+      "question": {
+        "japanese": "彼は新しい＿＿＿を買いました。明日会社で着る予定です。"
+      },
+      "options": {
+        "A": "えんぴつ",
+        "B": "ちゃわん",
+        "C": "ワイシャツ",
+        "D": "じてんしゃ"
+      },
+      "correctAnswer": "C",
+      "difficulty": "Medium",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 32,
+      "question": {
+        "japanese": "私は毎日＿＿＿を食べてから学校に行きます。"
+      },
+      "options": {
+        "A": "あさごはん",
+        "B": "ごご",
+        "C": "がいこく",
+        "D": "やすみ"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Easy",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 33,
+      "question": {
+        "japanese": "この本だなに本を＿＿＿ください。"
+      },
+      "options": {
+        "A": "おく",
+        "B": "はなす",
+        "C": "かぶる",
+        "D": "のぼる"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Medium",
+      "questionType": "Usage"
+    },
+    {
+      "id": 34,
+      "question": {
+        "japanese": "彼女は手を洗うとき、＿＿＿を使います。"
+      },
+      "options": {
+        "A": "ズボン",
+        "B": "えんぴつ",
+        "C": "ちゃわん",
+        "D": "せっけん"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Easy",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 35,
+      "question": {
+        "japanese": "私の兄は＿＿＿です。彼は会社で働いています。"
+      },
+      "options": {
+        "A": "し",
+        "B": "おとな",
+        "C": "やま",
+        "D": "あね"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Difficult",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 36,
+      "question": {
+        "japanese": "この漢字の読み方を選んでください：赤"
+      },
+      "options": {
+        "A": "しろ",
+        "B": "あか",
+        "C": "くろ",
+        "D": "あお"
+      },
+      "correctAnswer": "B",
+      "difficulty": "Easy",
+      "questionType": "Kanji"
+    },
+    {
+      "id": 37,
+      "question": {
+        "japanese": "日本の小学生は＿＿＿で学校に行くことが多いです。"
+      },
+      "options": {
+        "A": "じてんしゃ",
+        "B": "ワイシャツ",
+        "C": "ちゃわん",
+        "D": "せっけん"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Medium",
+      "questionType": "Cultural"
+    },
+    {
+      "id": 38,
+      "question": {
+        "japanese": "公園で子供たちが楽しそうに＿＿＿ています。"
+      },
+      "options": {
+        "A": "あそんで",
+        "B": "こまっ",
+        "C": "べんきょうし",
+        "D": "はれ"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Medium",
+      "questionType": "Usage"
+    },
+    {
+      "id": 39,
+      "question": {
+        "japanese": "私は＿＿＿3時に友達と会う約束をしています。"
+      },
+      "options": {
+        "A": "けさ",
+        "B": "やすみ",
+        "C": "ごご",
+        "D": "あさごはん"
+      },
+      "correctAnswer": "C",
+      "difficulty": "Medium",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 40,
+      "question": {
+        "japanese": "彼女は新しい言語を＿＿＿のが好きです。"
+      },
+      "options": {
+        "A": "のぼる",
+        "B": "はれる",
+        "C": "こまる",
+        "D": "ならう"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Medium",
+      "questionType": "Usage"
+    },
+    {
+      "id": 41,
+      "question": {
+        "japanese": "この箱には＿＿＿のりんごがあります。"
+      },
+      "options": {
+        "A": "では",
+        "B": "もっと",
+        "C": "ふたつ",
+        "D": "いっしょ"
+      },
+      "correctAnswer": "C",
+      "difficulty": "Easy",
+      "questionType": "Usage"
+    },
+    {
+      "id": 42,
+      "question": {
+        "japanese": "私は休みの日によく＿＿＿に登ります。"
+      },
+      "options": {
+        "A": "やま",
+        "B": "ほんだな",
+        "C": "おてあらい",
+        "D": "えき"
+      },
+      "correctAnswer": "A",
+      "difficulty": "Easy",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 43,
+      "question": {
+        "japanese": "彼は新しい＿＿＿を買いました。黒くてかっこいいです。"
+      },
+      "options": {
+        "A": "ちゃわん",
+        "B": "せっけん",
+        "C": "ズボン",
+        "D": "えんぴつ"
+      },
+      "correctAnswer": "C",
+      "difficulty": "Medium",
+      "questionType": "Meaning"
+    },
+    {
+      "id": 44,
+      "question": {
+        "japanese": "日本の伝統的な家では、畳の部屋は＿＿＿場所です。"
+      },
+      "options": {
+        "A": "おおきい",
+        "B": "やすい",
+        "C": "しずかな",
+        "D": "はれた"
+      },
+      "correctAnswer": "C",
+      "difficulty": "Difficult",
+      "questionType": "Cultural"
+    },
+    {
+      "id": 45,
+      "question": {
+        "japanese": "私の家から学校まで歩いて20分＿＿＿かかります。"
+      },
+      "options": {
+        "A": "まで",
+        "B": "でも",
+        "C": "くらい",
+        "D": "から"
+      },
+      "correctAnswer": "C",
+      "difficulty": "Medium",
+      "questionType": "Grammar"
+    },
+    {
+      "id": 46,
+      "question": {
+        "japanese": "この漢字の読み方を選んでください：四つ"
+      },
+      "options": {
+        "A": "ふたつ",
+        "B": "いつつ",
+        "C": "よっつ",
+        "D": "みっつ"
+      },
+      "correctAnswer": "C",
+      "difficulty": "Medium",
+      "questionType": "Kanji"
+    },
+    {
+      "id": 47,
+      "question": {
+        "japanese": "彼女は＿＿＿、今日は学校に行きません。"
+      },
+      "options": {
+        "A": "べんきょうするので",
+        "B": "からだがよくないので",
+        "C": "あそぶので",
+        "D": "はなすので"
+      },
+      "correctAnswer": "B",
+      "difficulty": "Difficult",
+      "questionType": "Usage"
+    },
+    {
+      "id": 48,
+      "question": {
+        "japanese": "私は毎日＿＿＿で日本語を勉強しています。"
+      },
+      "options": {
+        "A": "よっつ",
+        "B": "いっしょ",
+        "C": "ふたつ",
+        "D": "もっと"
+      },
+      "correctAnswer": "D",
+      "difficulty": "Difficult",
+      "questionType": "Usage"
+    },
+    {
+      "id": 49,
+      "question": {
+        "japanese": "日本では、お風呂の前に体を洗うときに＿＿＿を使います。"
+      },
+      "options": {
+        "A": "えんぴつ",
+        "B": "せっけん",
+        "C": "ほんだな",
+        "D": "ちゃわん"
+      },
+      "correctAnswer": "B",
+      "difficulty": "Medium",
+      "questionType": "Cultural"
+    },
+    {
+      "id": 50,
+      "question": {
+        "japanese": "私の家の＿＿＿に大きな木があります。"
+      },
+      "options": {
+        "A": "やすい",
+        "B": "おおきい",
+        "C": "みぎ",
+        "D": "しずか"
+      },
+      "correctAnswer": "C",
+      "difficulty": "Difficult",
+      "questionType": "Usage"
+    }
+  ]
+}
